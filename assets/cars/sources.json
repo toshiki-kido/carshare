@@ -1,0 +1,107 @@
+{
+  "m-yaris": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000240000293M.jpg",
+    "name": "トヨタ ヤリスクロス",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-raize": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000214000271M.jpg",
+    "name": "トヨタ ライズ",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-vezel": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000274000323M.jpg",
+    "name": "ホンダ 新型ヴェゼル e:HEV",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-harrier": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000219000273M.jpg",
+    "name": "トヨタ ハリアー",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-rav4": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000367000420M.jpg",
+    "name": "トヨタ 新型RAV4",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-forester": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000373000417M.jpg",
+    "name": "スバル 新型フォレスター",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-voxy": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000299000346M.jpg",
+    "name": "トヨタ 新型ヴォクシー HYBRID",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-alphard": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000333000382M.jpg",
+    "name": "トヨタ 新型アルファード",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "m-nx": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000349000397M.jpg",
+    "name": "レクサス 新型NX",
+    "source": "https://www.carshares.jp/car/"
+  },
+  "t-yariscross": {
+    "url": "https://share.timescar.jp/car/images/car_ph_yariscross.jpg",
+    "name": "ヤリスクロス",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-raize": {
+    "url": "https://share.timescar.jp/car/images/car_ph_raize.jpg",
+    "name": "ライズ",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-chr": {
+    "url": "https://share.timescar.jp/car/images/car_ph_chr.jpg",
+    "name": "C-HR",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-noah": {
+    "url": "https://share.timescar.jp/car/images/car_ph_noah.jpg",
+    "name": "ノア",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-aqua": {
+    "url": "https://share.timescar.jp/car/images/car_ph_aqua.jpg",
+    "name": "アクア",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-yaris": {
+    "url": "https://share.timescar.jp/car/images/car_ph_yaris.jpg",
+    "name": "ヤリス",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-note_e-power": {
+    "url": "https://share.timescar.jp/car/images/car_ph_note_e-power.jpg",
+    "name": "ノート e-POWER",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-solio": {
+    "url": "https://share.timescar.jp/car/images/car_ph_solio.jpg",
+    "name": "ソリオ",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-hustler": {
+    "url": "https://share.timescar.jp/car/images/car_ph_hustler.jpg",
+    "name": "ハスラー",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-swift": {
+    "url": "https://share.timescar.jp/car/images/car_ph_swift.jpg",
+    "name": "スイフト",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-sienta": {
+    "url": "https://share.timescar.jp/car/images/car_ph_sienta.jpg",
+    "name": "シエンタ",
+    "source": "https://share.timescar.jp/car/"
+  },
+  "t-prius": {
+    "url": "https://share.timescar.jp/car/images/car_ph_prius.jpg",
+    "name": "プリウス",
+    "source": "https://share.timescar.jp/car/"
+  }
+}
