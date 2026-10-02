@@ -108,5 +108,10 @@
     "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000303000349M.jpg",
     "name": "新型シエンタ HYBRID",
     "source": "https://www.carshares.jp/car/"
+  },
+  "t-cx30": {
+    "url": "https://share.timescar.jp/car/images/car_ph_cx-30.jpg",
+    "name": "CX-30",
+    "source": "https://share.timescar.jp/car/cx-30.html"
   }
 }
