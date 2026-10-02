@@ -103,5 +103,10 @@
     "url": "https://share.timescar.jp/car/images/car_ph_prius.jpg",
     "name": "プリウス",
     "source": "https://share.timescar.jp/car/"
+  },
+  "m-sienta": {
+    "url": "https://s3-ap-northeast-1.amazonaws.com/csj-material/carimages/000303000349M.jpg",
+    "name": "新型シエンタ HYBRID",
+    "source": "https://www.carshares.jp/car/"
   }
 }
