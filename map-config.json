@@ -1,0 +1,5 @@
+{
+  "tiles": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "route": "https://router.project-osrm.org/route/v1/driving/",
+  "search": "https://photon.komoot.io/api/"
+}
