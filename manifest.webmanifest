@@ -2,7 +2,7 @@
   "id": "./",
   "name": "北海道カーシェア料金比較",
   "short_name": "カーシェア比較",
-  "description": "三井とタイムズの時間・距離・夜間料金を比較",
+  "description": "三井・タイムズ・オリックスの時間・距離・夜間料金を比較",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",

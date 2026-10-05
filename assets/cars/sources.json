@@ -113,5 +113,20 @@
     "url": "https://share.timescar.jp/car/images/car_ph_cx-30.jpg",
     "name": "CX-30",
     "source": "https://share.timescar.jp/car/cx-30.html"
+  },
+  "o-note": {
+    "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/NOTE_e-PWR2.webp",
+    "name": "ノート e-POWER",
+    "source": "https://www.orix-carshare.com/lineup/"
+  },
+  "o-fit": {
+    "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/FIT4.webp",
+    "name": "フィット",
+    "source": "https://www.orix-carshare.com/lineup/"
+  },
+  "o-rocky": {
+    "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/ROCKY-scaled.webp",
+    "name": "ロッキー",
+    "source": "https://www.orix-carshare.com/lineup/"
   }
 }
