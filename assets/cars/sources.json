@@ -117,12 +117,14 @@
   "o-note": {
     "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/NOTE_e-PWR2.webp",
     "name": "ノート e-POWER",
-    "source": "https://www.orix-carshare.com/lineup/"
+    "source": "https://www.orix-carshare.com/lineup/",
+    "processing": "公式WebPの透過情報を保持して使用。車体の形や写真は改変していません。"
   },
   "o-fit": {
     "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/FIT4.webp",
     "name": "フィット",
-    "source": "https://www.orix-carshare.com/lineup/"
+    "source": "https://www.orix-carshare.com/lineup/",
+    "processing": "公式WebPの透過情報を保持して使用。車体の形や写真は改変していません。"
   },
   "o-rocky": {
     "url": "https://www.orix-carshare.com/wp-content/uploads/2026/03/ROCKY-scaled.webp",
